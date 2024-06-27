@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.box {
+    background-image: url(./img/image\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.ota1 {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.ota {
+    display: flex;
+    background-color: #009FF5B5;
+    color: white;
+    width: 150px;
+    height: 30px;
+    padding-top: 4px;
+    gap: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px #DAD3FF;
+}
+
+.we {
+    color: black;
+    background-color: #FFC611;
+    border: 5px solid #5A5555;
+    border-radius: 30px;
+    width: 604px;
+    text-align: center;
+    margin-top: 143px;
+    margin-left: 245px;
+    text-shadow: 2px 2px 2px #0047FF;
+}
+
+main img {
+    width: 250px;
+    padding-top: 100px;
+    box-shadow: 8px 7px 20px 0px #FFFFFF;
+    margin-bottom: 100px;
+}
+
+.doda {
+    background-color: black;
+}
+
+.hh {
+    color: #5A5555;
+    text-align: center;
+    text-shadow: 0px 4px 4px 0px #FFFFFF;
+}
+
+.ogil {
+    display: flex;
+    gap: 60px;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.bola {
+    padding-left: 690px;
+}
+
+button {
+    color: white;
+    background-color: #535353;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+    width: 120px;
+    height: 30px;
+}
+
+.bola1 button {
+    color: black;
+    background-color: #FFC200;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+    width: 120px;
+    height: 30px;
+    margin-left: 190px;
+}
+
+.wew {
+    background-color: #FFC611;
+}
+
+.dii {
+    display: flex;
+    gap: 15px;
+    padding-left: 950px;
+    width: 200px;
+}
+
+.gh {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    background-image: url(./img/image\ 5\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    width: 250px;
+    box-shadow: 8px 7px 20px 0px #FFFFFF;
+}
+
+.photo h2 {
+    padding-top: 200px;
+    padding-left: 80px;
+    color: white;
+}
+.tata{display: flex;
+justify-content: space-around;
+padding-top: 90px;
+padding-bottom: 90px;}
